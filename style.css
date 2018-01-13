@@ -1,0 +1,13 @@
+html, body{
+  text-align: center;
+}
+p{
+  text-align: left;
+  font-family: impact;
+}
+img{
+  width: 100%;
+}
+ol{
+  list-style: none;
+}
